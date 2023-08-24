@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/228139_CF10_TECNOLOGO_DESARROLLO_APLICACIONES_MOVILES/](https://ecored-sena.github.io/228139_CF10_TECNOLOGO_DESARROLLO_APLICACIONES_MOVILES)
 
 #
 
