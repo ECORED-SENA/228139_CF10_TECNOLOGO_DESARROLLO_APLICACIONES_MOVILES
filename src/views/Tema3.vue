@@ -156,7 +156,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="fade")
       p.mb-0 #[b Figura 1.] Arquitectura de App multiplataforma, con biblioteca de clases
     figure.mb-5(data-aos="fade-down")
-      img(src="@/assets/curso/temas/tema3/11.svg" alt="Presentación de una arquitectura de un aplicación para diferentes plataformas, con biblioteca de clases portables.")
+      img(src="@/assets/curso/temas/tema3/11.svg" alt="Presentación de una arquitectura de una aplicación para diferentes plataformas, con biblioteca de clases portables.")
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-4")
       .row.justify-content-center(titulo="Modelo optimista")

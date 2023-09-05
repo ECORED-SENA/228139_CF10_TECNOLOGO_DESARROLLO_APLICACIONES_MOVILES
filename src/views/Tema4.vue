@@ -102,7 +102,7 @@
 
     h3.mb-4(data-aos="fade") API de servicios web o remotas
 
-    p.mb-0(data-aos="fade") Estos servicios permiten que las aplicaciones conectadas se comuniquen, utilizando el protocolo HTTP que es, básicamente, un conjunto de reglas definidas entre cliente-servidor, para realizar el intercambio de información. Este es el principio fundamental que permite que las API remotas logren establecer una comunicación entre aplicaciones de distintas ubicaciones.
+    p(data-aos="fade") Estos servicios permiten que las aplicaciones conectadas se comuniquen, utilizando el protocolo HTTP que es, básicamente, un conjunto de reglas definidas entre cliente-servidor, para realizar el intercambio de información. Este es el principio fundamental que permite que las API remotas logren establecer una comunicación entre aplicaciones de distintas ubicaciones.
     p(data-aos="fade") Los formatos más comunes de envío de datos son: Json, XML y texto plano.
     p.mb-4(data-aos="fade") Para ampliar la información, lo invitamos a ver el video 
       b ¿Qué es una API? – La mejor explicación en español
