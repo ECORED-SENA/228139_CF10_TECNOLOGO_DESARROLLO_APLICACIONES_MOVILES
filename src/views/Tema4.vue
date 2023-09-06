@@ -204,7 +204,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade")
       h2#t_4_6 4.6 Métodos HTTP usados en las APIs
 
-    p(data-aos="fade") Los métodos HTTP permiten la interacción con la información de la API, esto es equivalente al CRUD de las bases de datos. #[em Get] es el método que realiza la solicitud de información, #[em post] expide la nueva información registrada actualizando los datos, #[em put] permite la actualización de los datos cuando se realiza el cambio relevante en la información y #[em delete] realiza la eliminación de recursos; en la siguiente figura se muestran estos métodos.
+    p(data-aos="fade") Los métodos HTTP permiten la interacción con la información de la API, esto es equivalente al CRUD de las bases de datos. #[em Get] es el método que realiza la solicitud de información, #[em post] expide la nueva información registrada actualizando los datos, #[em put] permite la actualización de los datos cuando se realiza el cambio relevante en la información y #[em delete] realiza la eliminación de recursos.
     p.mb-4(data-aos="fade") #[strong Finalmente, algunas características a tener en cuenta cuando se utiliza la arquitectura #[em RESTFUL] son:]
 
     .row.justify-content-center
