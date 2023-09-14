@@ -165,10 +165,9 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-9
         .titulo-sexto.color-acento-contenido(data-aos="fade")
-          p.mb-0 #[b Figura 2.] Tipos de API
+          p.mb-0 #[b Figura 5.] Tipos de API
         figure
           img(src="@/assets/curso/temas/tema4/fig2.svg" alt="Mapa conceptual que presenta los tipos de API.")
-          figcaption.mt-2 https://ceroideas.es/tipos-de-api-según-su-funcion-y-tecnologia/ 
 
     .cajon.color-primario.p-4.p-lg-5(data-aos="fade-down")
       p.mb-0 Las API de desarrollo generalmente no guardan, ni alojan datos en una base de datos, lo que se debe hacer es guardar todo en la memoria de manera temporal mientras se realizan las pruebas. Las API web que trabajan con las limitaciones de la arquitectura REST se conocen como las API de #[em RESTFUL]. Una API web de #[em RESTFUL] no cuenta con ningún estándar oficial que genere unas reglas para su desarrollo y utilización (Fielding, 2000).
@@ -202,7 +201,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido(data-aos="fade")
-      h2#t_4_6 4.6 Métodos HTTP usados en las APIs
+      h2#t_4_6 4.6 Métodos HTTP usados en las API
 
     p(data-aos="fade") Los métodos HTTP permiten la interacción con la información de la API, esto es equivalente al CRUD de las bases de datos. #[em Get] es el método que realiza la solicitud de información, #[em post] expide la nueva información registrada actualizando los datos, #[em put] permite la actualización de los datos cuando se realiza el cambio relevante en la información y #[em delete] realiza la eliminación de recursos.
     p.mb-4(data-aos="fade") #[strong Finalmente, algunas características a tener en cuenta cuando se utiliza la arquitectura #[em RESTFUL] son:]

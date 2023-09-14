@@ -60,7 +60,7 @@
       .row.align-items-center.justify-content-around
         .col-lg-3.mb-4.mb-lg-0
           figure
-            img(src="@/assets/curso/temas/tema1/5.svg")
+            img(src="@/assets/curso/temas/tema1/5.svg" alt="")
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p.mb-0 Todo el recorrido y navegación del usuario debe tener características previsibles, coherentes y sencillas, independientemente de la navegación que se utilice; gran parte del éxito de la aplicación móvil recae sobre estos tipos de detalles.  Si la aplicación no cuenta con un flujo de desplazamiento sencillo, los usuarios simplemente no la utilizarán por complicada o inapropiada.
@@ -70,8 +70,10 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-7
+        .titulo-sexto.color-acento-contenido(data-aos="fade")
+          p.mb-0 #[b Figura 1.] Flujo de navegación en Android
         figure
-          img(src="@/assets/curso/temas/tema1/6.svg")
+          img(src="@/assets/curso/temas/tema1/fig1.png" alt="Imagen que presenta el flujo de navegación en Android.")
 
     .tarjeta-avatar-b.mb-4(data-aos="fade-down")
         .tarjeta-avatar-b__img
@@ -98,9 +100,11 @@
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-7
+        .titulo-sexto.color-acento-contenido(data-aos="fade")
+          p.mb-0 #[b Figura 2.] Flujo de navegación en iOS
         figure
-          img(src="@/assets/curso/temas/tema1/9.svg")
-          figcaption.mt-1  Nota. Tomado de ejercicio práctico de descargas en app #[em store].
+          img(src="@/assets/curso/temas/tema1/fig2.png" alt="Imagen que presenta el flujo de navegación en iOS.")
+          figcaption.mt-2  Nota. Tomado de ejercicio práctico de descargas en app #[em store].
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-9.m-auto.p-5.caja_flotante_rosada.bg-3
@@ -120,8 +124,10 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-7
+        .titulo-sexto.color-acento-contenido(data-aos="fade")
+          p.mb-0 #[b Figura 3.] Figura 3.	Navegación en Windows phone
         figure
-          img(src="@/assets/curso/temas/tema1/10.svg")
+          img(src="@/assets/curso/temas/tema1/10.svg" alt="Imagen que presenta la navegación en Windows phone.")
           figcaption.mt-1 http://catedraocampo.com.ar/diferencias-de-flujos-de-navegacion-en-apps-multiplatforma/
 
     

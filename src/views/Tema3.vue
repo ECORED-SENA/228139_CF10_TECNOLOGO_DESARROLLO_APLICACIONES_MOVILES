@@ -154,7 +154,7 @@
     p.mb-4(data-aos="fade") Se debe optar por identificar cuál es el mejor modelo de comunicación y sincronización entre procesos. Tal modelo ha de permitir gestionar las transacciones de manera efectiva, por lo general, siempre se parte de los modelos conocidos: modelo optimista y modelo pesimista, como se ilustra a continuación.
  
     .titulo-sexto.color-acento-contenido(data-aos="fade")
-      p.mb-0 #[b Figura 1.] Arquitectura de App multiplataforma, con biblioteca de clases
+      p.mb-0 #[b Figura 4.] Arquitectura de App multiplataforma, con biblioteca de clases
     figure.mb-5(data-aos="fade-down")
       img(src="@/assets/curso/temas/tema3/11.svg" alt="Presentación de una arquitectura de una aplicación para diferentes plataformas, con biblioteca de clases portables.")
 

@@ -120,7 +120,7 @@ export default {
           },
           {
             numero: '4.6',
-            titulo: 'Métodos HTTP usados en las APIs',
+            titulo: 'Métodos HTTP usados en las API',
             hash: 't_4_6',
           },
         ],
