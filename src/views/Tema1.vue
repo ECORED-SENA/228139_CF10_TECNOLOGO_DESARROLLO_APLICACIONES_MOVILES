@@ -125,7 +125,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-7
         .titulo-sexto.color-acento-contenido(data-aos="fade")
-          p.mb-0 #[b Figura 3.] Figura 3.	Navegación en Windows phone
+          p.mb-0 #[b Figura 3.] Navegación en Windows phone
         figure
           img(src="@/assets/curso/temas/tema1/10.svg" alt="Imagen que presenta la navegación en Windows phone.")
           figcaption.mt-1 http://catedraocampo.com.ar/diferencias-de-flujos-de-navegacion-en-apps-multiplatforma/
